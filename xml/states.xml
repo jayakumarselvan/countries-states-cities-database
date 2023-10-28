@@ -4633,100 +4633,100 @@
   </state>
   <state>
     <id>4860</id>
-    <name>Devonshire Parish</name>
+    <name>Devonshire</name>
     <country_id>25</country_id>
     <country_code>BM</country_code>
     <country_name>Bermuda</country_name>
     <state_code>DEV</state_code>
-    <type></type>
+    <type>municipality</type>
     <latitude>32.30380620</latitude>
     <longitude>-64.76069540</longitude>
   </state>
   <state>
     <id>4861</id>
-    <name>Hamilton Parish</name>
+    <name>Hamilton</name>
     <country_id>25</country_id>
     <country_code>BM</country_code>
     <country_name>Bermuda</country_name>
     <state_code>HA</state_code>
-    <type></type>
+    <type>municipality</type>
     <latitude>32.34494320</latitude>
     <longitude>-64.72365000</longitude>
   </state>
   <state>
     <id>4863</id>
-    <name>Paget Parish</name>
+    <name>Paget</name>
     <country_id>25</country_id>
     <country_code>BM</country_code>
     <country_name>Bermuda</country_name>
     <state_code>PAG</state_code>
-    <type></type>
+    <type>municipality</type>
     <latitude>32.28107400</latitude>
     <longitude>-64.77847870</longitude>
   </state>
   <state>
     <id>4864</id>
-    <name>Pembroke Parish</name>
+    <name>Pembroke</name>
     <country_id>25</country_id>
     <country_code>BM</country_code>
     <country_name>Bermuda</country_name>
     <state_code>PEM</state_code>
-    <type></type>
+    <type>municipality</type>
     <latitude>32.30076720</latitude>
     <longitude>-64.79626300</longitude>
   </state>
   <state>
     <id>4866</id>
-    <name>Saint George's Parish</name>
+    <name>Saint George's</name>
     <country_id>25</country_id>
     <country_code>BM</country_code>
     <country_name>Bermuda</country_name>
     <state_code>SGE</state_code>
-    <type></type>
+    <type>municipality</type>
     <latitude>17.12577590</latitude>
     <longitude>-62.56198110</longitude>
   </state>
   <state>
     <id>4867</id>
-    <name>Sandys Parish</name>
+    <name>Sandys</name>
     <country_id>25</country_id>
     <country_code>BM</country_code>
     <country_name>Bermuda</country_name>
     <state_code>SAN</state_code>
-    <type></type>
+    <type>municipality</type>
     <latitude>32.29995280</latitude>
     <longitude>-64.86741030</longitude>
   </state>
   <state>
     <id>4868</id>
-    <name>Smith's Parish,</name>
+    <name>Smith's</name>
     <country_id>25</country_id>
     <country_code>BM</country_code>
     <country_name>Bermuda</country_name>
     <state_code>SMI</state_code>
-    <type></type>
+    <type>municipality</type>
     <latitude>32.31339660</latitude>
     <longitude>-64.73105880</longitude>
   </state>
   <state>
     <id>4869</id>
-    <name>Southampton Parish</name>
+    <name>Southampton</name>
     <country_id>25</country_id>
     <country_code>BM</country_code>
     <country_name>Bermuda</country_name>
     <state_code>SOU</state_code>
-    <type></type>
+    <type>municipality</type>
     <latitude>32.25400950</latitude>
     <longitude>-64.82590580</longitude>
   </state>
   <state>
     <id>4870</id>
-    <name>Warwick Parish</name>
+    <name>Warwick</name>
     <country_id>25</country_id>
     <country_code>BM</country_code>
     <country_name>Bermuda</country_name>
     <state_code>WAR</state_code>
-    <type></type>
+    <type>municipality</type>
     <latitude>32.26615340</latitude>
     <longitude>-64.80811980</longitude>
   </state>
@@ -17272,12 +17272,12 @@
   </state>
   <state>
     <id>4889</id>
-    <name>Central and Western District</name>
+    <name>Central and Western</name>
     <country_id>98</country_id>
     <country_code>HK</country_code>
     <country_name>Hong Kong S.A.R.</country_name>
     <state_code>HCW</state_code>
-    <type></type>
+    <type>district</type>
     <latitude>22.28666000</latitude>
     <longitude>114.15497000</longitude>
   </state>
@@ -17288,18 +17288,18 @@
     <country_code>HK</country_code>
     <country_name>Hong Kong S.A.R.</country_name>
     <state_code>HEA</state_code>
-    <type></type>
+    <type>district</type>
     <latitude>22.28411000</latitude>
     <longitude>114.22414000</longitude>
   </state>
   <state>
     <id>4888</id>
-    <name>Islands District</name>
+    <name>Islands</name>
     <country_id>98</country_id>
     <country_code>HK</country_code>
     <country_name>Hong Kong S.A.R.</country_name>
     <state_code>NIS</state_code>
-    <type></type>
+    <type>district</type>
     <latitude>22.26114000</latitude>
     <longitude>113.94608000</longitude>
   </state>
@@ -17310,7 +17310,7 @@
     <country_code>HK</country_code>
     <country_name>Hong Kong S.A.R.</country_name>
     <state_code>KKC</state_code>
-    <type></type>
+    <type>district</type>
     <latitude>22.32820000</latitude>
     <longitude>114.19155000</longitude>
   </state>
@@ -17321,7 +17321,7 @@
     <country_code>HK</country_code>
     <country_name>Hong Kong S.A.R.</country_name>
     <state_code>NKT</state_code>
-    <type></type>
+    <type>district</type>
     <latitude>22.35488000</latitude>
     <longitude>114.08401000</longitude>
   </state>
@@ -17332,7 +17332,7 @@
     <country_code>HK</country_code>
     <country_name>Hong Kong S.A.R.</country_name>
     <state_code>KKT</state_code>
-    <type></type>
+    <type>district</type>
     <latitude>22.31326000</latitude>
     <longitude>114.22581000</longitude>
   </state>
@@ -17343,18 +17343,18 @@
     <country_code>HK</country_code>
     <country_name>Hong Kong S.A.R.</country_name>
     <state_code>NNO</state_code>
-    <type></type>
+    <type>district</type>
     <latitude>22.49471000</latitude>
     <longitude>114.13812000</longitude>
   </state>
   <state>
     <id>4887</id>
-    <name>Sai Kung District</name>
+    <name>Sai Kung</name>
     <country_id>98</country_id>
     <country_code>HK</country_code>
     <country_name>Hong Kong S.A.R.</country_name>
     <state_code>NSK</state_code>
-    <type></type>
+    <type>district</type>
     <latitude>22.38143000</latitude>
     <longitude>114.27052000</longitude>
   </state>
@@ -17365,7 +17365,7 @@
     <country_code>HK</country_code>
     <country_name>Hong Kong S.A.R.</country_name>
     <state_code>NST</state_code>
-    <type></type>
+    <type>district</type>
     <latitude>22.38715000</latitude>
     <longitude>114.19534000</longitude>
   </state>
@@ -17376,7 +17376,7 @@
     <country_code>HK</country_code>
     <country_name>Hong Kong S.A.R.</country_name>
     <state_code>KSS</state_code>
-    <type></type>
+    <type>district</type>
     <latitude>22.33074000</latitude>
     <longitude>114.16220000</longitude>
   </state>
@@ -17387,29 +17387,29 @@
     <country_code>HK</country_code>
     <country_name>Hong Kong S.A.R.</country_name>
     <state_code>HSO</state_code>
-    <type></type>
+    <type>district</type>
     <latitude>22.24725000</latitude>
     <longitude>114.15884000</longitude>
   </state>
   <state>
     <id>4885</id>
-    <name>Tai Po District</name>
+    <name>Tai Po</name>
     <country_id>98</country_id>
-    <country_code>KH</country_code>
+    <country_code>HK</country_code>
     <country_name>Hong Kong S.A.R.</country_name>
     <state_code>NTP</state_code>
-    <type></type>
+    <type>district</type>
     <latitude>22.45085000</latitude>
     <longitude>114.16422000</longitude>
   </state>
   <state>
     <id>4884</id>
-    <name>Tsuen Wan District</name>
+    <name>Tsuen Wan</name>
     <country_id>98</country_id>
     <country_code>HK</country_code>
     <country_name>Hong Kong S.A.R.</country_name>
     <state_code>NTW</state_code>
-    <type></type>
+    <type>district</type>
     <latitude>22.36281000</latitude>
     <longitude>114.12907000</longitude>
   </state>
@@ -17420,7 +17420,7 @@
     <country_code>HK</country_code>
     <country_name>Hong Kong S.A.R.</country_name>
     <state_code>NTM</state_code>
-    <type></type>
+    <type>district</type>
     <latitude>22.39163000</latitude>
     <longitude>113.97708850</longitude>
   </state>
@@ -17431,7 +17431,7 @@
     <country_code>HK</country_code>
     <country_name>Hong Kong S.A.R.</country_name>
     <state_code>HWC</state_code>
-    <type></type>
+    <type>district</type>
     <latitude>22.27968000</latitude>
     <longitude>114.17168000</longitude>
   </state>
@@ -17442,7 +17442,7 @@
     <country_code>HK</country_code>
     <country_name>Hong Kong S.A.R.</country_name>
     <state_code>KWT</state_code>
-    <type></type>
+    <type>district</type>
     <latitude>22.33353000</latitude>
     <longitude>114.19686000</longitude>
   </state>
@@ -17453,18 +17453,18 @@
     <country_code>HK</country_code>
     <country_name>Hong Kong S.A.R.</country_name>
     <state_code>KYT</state_code>
-    <type></type>
+    <type>district</type>
     <latitude>22.32138000</latitude>
     <longitude>114.17260000</longitude>
   </state>
   <state>
     <id>4883</id>
-    <name>Yuen Long District</name>
+    <name>Yuen Long</name>
     <country_id>98</country_id>
     <country_code>HK</country_code>
     <country_name>Hong Kong S.A.R.</country_name>
     <state_code>NYL</state_code>
-    <type></type>
+    <type>district</type>
     <latitude>22.44559000</latitude>
     <longitude>114.02218000</longitude>
   </state>
@@ -27979,7 +27979,7 @@
     <country_id>142</country_id>
     <country_code>MX</country_code>
     <country_name>Mexico</country_name>
-    <state_code>CDMX</state_code>
+    <state_code>CMX</state_code>
     <type>federal district</type>
     <latitude>19.43260770</latitude>
     <longitude>-99.13320800</longitude>
@@ -31131,6 +31131,39 @@
     <longitude>3.84968150</longitude>
   </state>
   <state>
+    <id>5227</id>
+    <name>Loyalty Islands Province</name>
+    <country_id>157</country_id>
+    <country_code>NC</country_code>
+    <country_name>New Caledonia</country_name>
+    <state_code>03</state_code>
+    <type>province</type>
+    <latitude>-20.96670000</latitude>
+    <longitude>167.23330000</longitude>
+  </state>
+  <state>
+    <id>5226</id>
+    <name>North Province</name>
+    <country_id>157</country_id>
+    <country_code>NC</country_code>
+    <country_name>New Caledonia</country_name>
+    <state_code>02</state_code>
+    <type>province</type>
+    <latitude>-22.27580000</latitude>
+    <longitude>166.45800000</longitude>
+  </state>
+  <state>
+    <id>5225</id>
+    <name>South Province</name>
+    <country_id>157</country_id>
+    <country_code>NC</country_code>
+    <country_name>New Caledonia</country_name>
+    <state_code>01</state_code>
+    <type>province</type>
+    <latitude>-22.27580000</latitude>
+    <longitude>166.45800000</longitude>
+  </state>
+  <state>
     <id>4072</id>
     <name>Auckland Region</name>
     <country_id>158</country_id>
@@ -34165,6 +34198,17 @@
     <type></type>
     <latitude>-22.55902720</latitude>
     <longitude>-56.02499820</longitude>
+  </state>
+  <state>
+    <id>5221</id>
+    <name>Asuncion</name>
+    <country_id>172</country_id>
+    <country_code>PY</country_code>
+    <country_name>Paraguay</country_name>
+    <state_code>ASU</state_code>
+    <type>capital</type>
+    <latitude>-25.29682970</latitude>
+    <longitude>-57.68066230</longitude>
   </state>
   <state>
     <id>2780</id>
@@ -38303,17 +38347,6 @@
     <longitude>46.75393970</longitude>
   </state>
   <state>
-    <id>1912</id>
-    <name>Sevastopol</name>
-    <country_id>182</country_id>
-    <country_code>RU</country_code>
-    <country_name>Russia</country_name>
-    <state_code>UA-40</state_code>
-    <type></type>
-    <latitude>44.61665000</latitude>
-    <longitude>33.52536710</longitude>
-  </state>
-  <state>
     <id>1885</id>
     <name>Smolensk Oblast</name>
     <country_id>182</country_id>
@@ -40064,58 +40097,58 @@
   </state>
   <state>
     <id>4651</id>
-    <name>Central Singapore Community Development Council</name>
+    <name>Central Singapore</name>
     <country_id>199</country_id>
     <country_code>SG</country_code>
     <country_name>Singapore</country_name>
     <state_code>01</state_code>
-    <type></type>
-    <latitude>1.28951400</latitude>
-    <longitude>103.81438790</longitude>
+    <type>district</type>
+    <latitude>1.28840000</latitude>
+    <longitude>103.85350000</longitude>
   </state>
   <state>
     <id>4649</id>
-    <name>North East Community Development Council</name>
+    <name>North East</name>
     <country_id>199</country_id>
     <country_code>SG</country_code>
     <country_name>Singapore</country_name>
     <state_code>02</state_code>
-    <type></type>
-    <latitude>45.01181130</latitude>
-    <longitude>-93.24681070</longitude>
+    <type>district</type>
+    <latitude>1.38240000</latitude>
+    <longitude>103.89720000</longitude>
   </state>
   <state>
     <id>4653</id>
-    <name>North West Community Development Council</name>
+    <name>North West</name>
     <country_id>199</country_id>
     <country_code>SG</country_code>
     <country_name>Singapore</country_name>
     <state_code>03</state_code>
-    <type></type>
-    <latitude>39.10709300</latitude>
-    <longitude>-94.45733600</longitude>
+    <type>district</type>
+    <latitude>1.41800000</latitude>
+    <longitude>103.82750000</longitude>
   </state>
   <state>
     <id>4650</id>
-    <name>South East Community Development Council</name>
+    <name>South East</name>
     <country_id>199</country_id>
     <country_code>SG</country_code>
     <country_name>Singapore</country_name>
     <state_code>04</state_code>
-    <type></type>
-    <latitude>39.28630700</latitude>
-    <longitude>-76.56912370</longitude>
+    <type>district</type>
+    <latitude>1.35710000</latitude>
+    <longitude>103.70040000</longitude>
   </state>
   <state>
     <id>4652</id>
-    <name>South West Community Development Council</name>
+    <name>South West</name>
     <country_id>199</country_id>
     <country_code>SG</country_code>
     <country_name>Singapore</country_name>
     <state_code>05</state_code>
-    <type></type>
-    <latitude>39.92569100</latitude>
-    <longitude>-75.23105800</longitude>
+    <type>district</type>
+    <latitude>1.35710000</latitude>
+    <longitude>103.94510000</longitude>
   </state>
   <state>
     <id>4352</id>
@@ -43352,6 +43385,17 @@
     <longitude>-6.29997670</longitude>
   </state>
   <state>
+    <id>5222</id>
+    <name>Canarias</name>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <country_name>Spain</country_name>
+    <state_code>CN</state_code>
+    <type>autonomous community</type>
+    <latitude>28.29160000</latitude>
+    <longitude>16.62910000</longitude>
+  </state>
+  <state>
     <id>1170</id>
     <name>Cantabria</name>
     <country_id>207</country_id>
@@ -43372,6 +43416,17 @@
     <type>province</type>
     <latitude>39.98114350</latitude>
     <longitude>0.00884070</longitude>
+  </state>
+  <state>
+    <id>5223</id>
+    <name>Ceuta</name>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <country_name>Spain</country_name>
+    <state_code>CE</state_code>
+    <type>autonomous city in North Africa</type>
+    <latitude>35.88900000</latitude>
+    <longitude>-5.31870000</longitude>
   </state>
   <state>
     <id>5105</id>
@@ -43570,6 +43625,17 @@
     <type>province</type>
     <latitude>36.71820150</latitude>
     <longitude>-4.51930600</longitude>
+  </state>
+  <state>
+    <id>5224</id>
+    <name>Melilla</name>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <country_name>Spain</country_name>
+    <state_code>ML</state_code>
+    <type>autonomous city in North Africa</type>
+    <latitude>35.29370000</latitude>
+    <longitude>-2.93830000</longitude>
   </state>
   <state>
     <id>1176</id>
@@ -44475,14 +44541,14 @@
   </state>
   <state>
     <id>1537</id>
-    <name>Blekinge</name>
+    <name>Blekinge County</name>
     <country_id>213</country_id>
     <country_code>SE</country_code>
     <country_name>Sweden</country_name>
     <state_code>K</state_code>
     <type></type>
-    <latitude>56.27838370</latitude>
-    <longitude>15.01800580</longitude>
+    <latitude>56.28333333</latitude>
+    <longitude>15.11666666</longitude>
   </state>
   <state>
     <id>1534</id>
@@ -50271,6 +50337,17 @@
     <longitude>26.25161700</longitude>
   </state>
   <state>
+    <id>1912</id>
+    <name>Sevastopol</name>
+    <country_id>230</country_id>
+    <country_code>UA</country_code>
+    <country_name>Ukraine</country_name>
+    <state_code>40</state_code>
+    <type></type>
+    <latitude>44.61665000</latitude>
+    <longitude>33.52536710</longitude>
+  </state>
+  <state>
     <id>4685</id>
     <name>Sumska oblast</name>
     <country_id>230</country_id>
@@ -53968,7 +54045,7 @@
   </state>
   <state>
     <id>3205</id>
-    <name>Artigas Department</name>
+    <name>Artigas</name>
     <country_id>235</country_id>
     <country_code>UY</country_code>
     <country_name>Uruguay</country_name>
@@ -53979,7 +54056,7 @@
   </state>
   <state>
     <id>3213</id>
-    <name>Canelones Department</name>
+    <name>Canelones</name>
     <country_id>235</country_id>
     <country_code>UY</country_code>
     <country_name>Uruguay</country_name>
@@ -53990,7 +54067,7 @@
   </state>
   <state>
     <id>3211</id>
-    <name>Cerro Largo Department</name>
+    <name>Cerro Largo</name>
     <country_id>235</country_id>
     <country_code>UY</country_code>
     <country_name>Uruguay</country_name>
@@ -54001,7 +54078,7 @@
   </state>
   <state>
     <id>3208</id>
-    <name>Colonia Department</name>
+    <name>Colonia</name>
     <country_id>235</country_id>
     <country_code>UY</country_code>
     <country_name>Uruguay</country_name>
@@ -54012,7 +54089,7 @@
   </state>
   <state>
     <id>3209</id>
-    <name>Durazno Department</name>
+    <name>Durazno</name>
     <country_id>235</country_id>
     <country_code>UY</country_code>
     <country_name>Uruguay</country_name>
@@ -54023,7 +54100,7 @@
   </state>
   <state>
     <id>3203</id>
-    <name>Flores Department</name>
+    <name>Flores</name>
     <country_id>235</country_id>
     <country_code>UY</country_code>
     <country_name>Uruguay</country_name>
@@ -54034,7 +54111,7 @@
   </state>
   <state>
     <id>3217</id>
-    <name>Florida Department</name>
+    <name>Florida</name>
     <country_id>235</country_id>
     <country_code>UY</country_code>
     <country_name>Uruguay</country_name>
@@ -54045,7 +54122,7 @@
   </state>
   <state>
     <id>3215</id>
-    <name>Lavalleja Department</name>
+    <name>Lavalleja</name>
     <country_id>235</country_id>
     <country_code>UY</country_code>
     <country_name>Uruguay</country_name>
@@ -54056,7 +54133,7 @@
   </state>
   <state>
     <id>3206</id>
-    <name>Maldonado Department</name>
+    <name>Maldonado</name>
     <country_id>235</country_id>
     <country_code>UY</country_code>
     <country_name>Uruguay</country_name>
@@ -54067,7 +54144,7 @@
   </state>
   <state>
     <id>3218</id>
-    <name>Montevideo Department</name>
+    <name>Montevideo</name>
     <country_id>235</country_id>
     <country_code>UY</country_code>
     <country_name>Uruguay</country_name>
@@ -54078,7 +54155,7 @@
   </state>
   <state>
     <id>3212</id>
-    <name>Paysandú Department</name>
+    <name>Paysandú</name>
     <country_id>235</country_id>
     <country_code>UY</country_code>
     <country_name>Uruguay</country_name>
@@ -54089,7 +54166,7 @@
   </state>
   <state>
     <id>3210</id>
-    <name>Río Negro Department</name>
+    <name>Río Negro</name>
     <country_id>235</country_id>
     <country_code>UY</country_code>
     <country_name>Uruguay</country_name>
@@ -54100,7 +54177,7 @@
   </state>
   <state>
     <id>3207</id>
-    <name>Rivera Department</name>
+    <name>Rivera</name>
     <country_id>235</country_id>
     <country_code>UY</country_code>
     <country_name>Uruguay</country_name>
@@ -54111,7 +54188,7 @@
   </state>
   <state>
     <id>3216</id>
-    <name>Rocha Department</name>
+    <name>Rocha</name>
     <country_id>235</country_id>
     <country_code>UY</country_code>
     <country_name>Uruguay</country_name>
@@ -54122,7 +54199,7 @@
   </state>
   <state>
     <id>3220</id>
-    <name>Salto Department</name>
+    <name>Salto</name>
     <country_id>235</country_id>
     <country_code>UY</country_code>
     <country_name>Uruguay</country_name>
@@ -54133,7 +54210,7 @@
   </state>
   <state>
     <id>3204</id>
-    <name>San José Department</name>
+    <name>San José</name>
     <country_id>235</country_id>
     <country_code>UY</country_code>
     <country_name>Uruguay</country_name>
@@ -54144,7 +54221,7 @@
   </state>
   <state>
     <id>3219</id>
-    <name>Soriano Department</name>
+    <name>Soriano</name>
     <country_id>235</country_id>
     <country_code>UY</country_code>
     <country_name>Uruguay</country_name>
@@ -54155,7 +54232,7 @@
   </state>
   <state>
     <id>3221</id>
-    <name>Tacuarembó Department</name>
+    <name>Tacuarembó</name>
     <country_id>235</country_id>
     <country_code>UY</country_code>
     <country_name>Uruguay</country_name>
@@ -54166,7 +54243,7 @@
   </state>
   <state>
     <id>3214</id>
-    <name>Treinta y Tres Department</name>
+    <name>Treinta y Tres</name>
     <country_id>235</country_id>
     <country_code>UY</country_code>
     <country_name>Uruguay</country_name>

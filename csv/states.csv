@@ -420,15 +420,15 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude
 3080,"Ouémé Department",24,BJ,Benin,OU,,6.61481520,2.49999180
 3074,"Plateau Department",24,BJ,Benin,PL,,7.34451410,2.53960300
 3073,"Zou Department",24,BJ,Benin,ZO,,7.34692680,2.06651970
-4860,"Devonshire Parish",25,BM,Bermuda,DEV,,32.30380620,-64.76069540
-4861,"Hamilton Parish",25,BM,Bermuda,HA,,32.34494320,-64.72365000
-4863,"Paget Parish",25,BM,Bermuda,PAG,,32.28107400,-64.77847870
-4864,"Pembroke Parish",25,BM,Bermuda,PEM,,32.30076720,-64.79626300
-4866,"Saint George's Parish",25,BM,Bermuda,SGE,,17.12577590,-62.56198110
-4867,"Sandys Parish",25,BM,Bermuda,SAN,,32.29995280,-64.86741030
-4868,"Smith's Parish,",25,BM,Bermuda,SMI,,32.31339660,-64.73105880
-4869,"Southampton Parish",25,BM,Bermuda,SOU,,32.25400950,-64.82590580
-4870,"Warwick Parish",25,BM,Bermuda,WAR,,32.26615340,-64.80811980
+4860,Devonshire,25,BM,Bermuda,DEV,municipality,32.30380620,-64.76069540
+4861,Hamilton,25,BM,Bermuda,HA,municipality,32.34494320,-64.72365000
+4863,Paget,25,BM,Bermuda,PAG,municipality,32.28107400,-64.77847870
+4864,Pembroke,25,BM,Bermuda,PEM,municipality,32.30076720,-64.79626300
+4866,"Saint George's",25,BM,Bermuda,SGE,municipality,17.12577590,-62.56198110
+4867,Sandys,25,BM,Bermuda,SAN,municipality,32.29995280,-64.86741030
+4868,Smith's,25,BM,Bermuda,SMI,municipality,32.31339660,-64.73105880
+4869,Southampton,25,BM,Bermuda,SOU,municipality,32.25400950,-64.82590580
+4870,Warwick,25,BM,Bermuda,WAR,municipality,32.26615340,-64.80811980
 240,"Bumthang District",26,BT,Bhutan,33,,27.64183900,90.67730460
 239,"Chukha District",26,BT,Bhutan,12,,27.07843040,89.47421770
 238,"Dagana District",26,BT,Bhutan,22,,27.03228610,89.88793040
@@ -1569,24 +1569,24 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude
 4053,"Santa Bárbara Department",97,HN,Honduras,SB,,15.12027950,-88.40160410
 4055,"Valle Department",97,HN,Honduras,VA,,13.57829360,-87.57912870
 4057,"Yoro Department",97,HN,Honduras,YO,,15.29496790,-87.14228950
-4889,"Central and Western District",98,HK,"Hong Kong S.A.R.",HCW,,22.28666000,114.15497000
-4891,Eastern,98,HK,"Hong Kong S.A.R.",HEA,,22.28411000,114.22414000
-4888,"Islands District",98,HK,"Hong Kong S.A.R.",NIS,,22.26114000,113.94608000
-4895,"Kowloon City",98,HK,"Hong Kong S.A.R.",KKC,,22.32820000,114.19155000
-4898,"Kwai Tsing",98,HK,"Hong Kong S.A.R.",NKT,,22.35488000,114.08401000
-4897,"Kwun Tong",98,HK,"Hong Kong S.A.R.",KKT,,22.31326000,114.22581000
-4900,North,98,HK,"Hong Kong S.A.R.",NNO,,22.49471000,114.13812000
-4887,"Sai Kung District",98,HK,"Hong Kong S.A.R.",NSK,,22.38143000,114.27052000
-4901,"Sha Tin",98,HK,"Hong Kong S.A.R.",NST,,22.38715000,114.19534000
-4894,"Sham Shui Po",98,HK,"Hong Kong S.A.R.",KSS,,22.33074000,114.16220000
-4892,Southern,98,HK,"Hong Kong S.A.R.",HSO,,22.24725000,114.15884000
-4885,"Tai Po District",98,KH,"Hong Kong S.A.R.",NTP,,22.45085000,114.16422000
-4884,"Tsuen Wan District",98,HK,"Hong Kong S.A.R.",NTW,,22.36281000,114.12907000
-4899,"Tuen Mun",98,HK,"Hong Kong S.A.R.",NTM,,22.39163000,113.97708850
-4890,"Wan Chai",98,HK,"Hong Kong S.A.R.",HWC,,22.27968000,114.17168000
-4896,"Wong Tai Sin",98,HK,"Hong Kong S.A.R.",KWT,,22.33353000,114.19686000
-4893,"Yau Tsim Mong",98,HK,"Hong Kong S.A.R.",KYT,,22.32138000,114.17260000
-4883,"Yuen Long District",98,HK,"Hong Kong S.A.R.",NYL,,22.44559000,114.02218000
+4889,"Central and Western",98,HK,"Hong Kong S.A.R.",HCW,district,22.28666000,114.15497000
+4891,Eastern,98,HK,"Hong Kong S.A.R.",HEA,district,22.28411000,114.22414000
+4888,Islands,98,HK,"Hong Kong S.A.R.",NIS,district,22.26114000,113.94608000
+4895,"Kowloon City",98,HK,"Hong Kong S.A.R.",KKC,district,22.32820000,114.19155000
+4898,"Kwai Tsing",98,HK,"Hong Kong S.A.R.",NKT,district,22.35488000,114.08401000
+4897,"Kwun Tong",98,HK,"Hong Kong S.A.R.",KKT,district,22.31326000,114.22581000
+4900,North,98,HK,"Hong Kong S.A.R.",NNO,district,22.49471000,114.13812000
+4887,"Sai Kung",98,HK,"Hong Kong S.A.R.",NSK,district,22.38143000,114.27052000
+4901,"Sha Tin",98,HK,"Hong Kong S.A.R.",NST,district,22.38715000,114.19534000
+4894,"Sham Shui Po",98,HK,"Hong Kong S.A.R.",KSS,district,22.33074000,114.16220000
+4892,Southern,98,HK,"Hong Kong S.A.R.",HSO,district,22.24725000,114.15884000
+4885,"Tai Po",98,HK,"Hong Kong S.A.R.",NTP,district,22.45085000,114.16422000
+4884,"Tsuen Wan",98,HK,"Hong Kong S.A.R.",NTW,district,22.36281000,114.12907000
+4899,"Tuen Mun",98,HK,"Hong Kong S.A.R.",NTM,district,22.39163000,113.97708850
+4890,"Wan Chai",98,HK,"Hong Kong S.A.R.",HWC,district,22.27968000,114.17168000
+4896,"Wong Tai Sin",98,HK,"Hong Kong S.A.R.",KWT,district,22.33353000,114.19686000
+4893,"Yau Tsim Mong",98,HK,"Hong Kong S.A.R.",KYT,district,22.32138000,114.17260000
+4883,"Yuen Long",98,HK,"Hong Kong S.A.R.",NYL,district,22.44559000,114.02218000
 1048,Bács-Kiskun,99,HU,Hungary,BK,county,46.56614370,19.42724640
 1055,Baranya,99,HU,Hungary,BA,county,46.04845850,18.27191730
 1060,Békés,99,HU,Hungary,BE,county,46.67048990,21.04349960
@@ -2542,7 +2542,7 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude
 3475,Campeche,142,MX,Mexico,CAM,state,19.83012510,-90.53490870
 3451,Chiapas,142,MX,Mexico,CHP,state,16.75693180,-93.12923530
 3447,Chihuahua,142,MX,Mexico,CHH,state,28.63299570,-106.06910040
-3473,"Ciudad de México",142,MX,Mexico,CDMX,"federal district",19.43260770,-99.13320800
+3473,"Ciudad de México",142,MX,Mexico,CMX,"federal district",19.43260770,-99.13320800
 3471,"Coahuila de Zaragoza",142,MX,Mexico,COA,state,27.05867600,-101.70682940
 3472,Colima,142,MX,Mexico,COL,state,19.24523420,-103.72408680
 3453,Durango,142,MX,Mexico,DUR,state,37.27528000,-107.88006670
@@ -2829,6 +2829,9 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude
 2614,"South Holland",156,NL,Netherlands,ZH,province,51.99667920,4.55973970
 2610,Utrecht,156,NL,Netherlands,UT,province,52.09073740,5.12142010
 2620,Zeeland,156,NL,Netherlands,ZE,province,51.49403090,3.84968150
+5227,"Loyalty Islands Province",157,NC,"New Caledonia",03,province,-20.96670000,167.23330000
+5226,"North Province",157,NC,"New Caledonia",02,province,-22.27580000,166.45800000
+5225,"South Province",157,NC,"New Caledonia",01,province,-22.27580000,166.45800000
 4072,"Auckland Region",158,NZ,"New Zealand",AUK,,-36.66753280,174.77333250
 4074,"Bay of Plenty Region",158,NZ,"New Zealand",BOP,,-37.42339170,176.74163740
 4066,"Canterbury Region",158,NZ,"New Zealand",CAN,,-43.75422750,171.16372450
@@ -3105,6 +3108,7 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude
 2785,"Alto Paraguay Department",172,PY,Paraguay,16,,-20.08525080,-59.47209040
 2784,"Alto Paraná Department",172,PY,Paraguay,10,,-25.60755460,-54.96118360
 2782,"Amambay Department",172,PY,Paraguay,13,,-22.55902720,-56.02499820
+5221,Asuncion,172,PY,Paraguay,ASU,capital,-25.29682970,-57.68066230
 2780,"Boquerón Department",172,PY,Paraguay,19,,-21.74492540,-60.95400730
 2773,Caaguazú,172,PY,Paraguay,5,,-25.46458180,-56.01385100
 2775,Caazapá,172,PY,Paraguay,6,,-26.18277130,-56.37123270
@@ -3481,7 +3485,6 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude
 1875,Sakhalin,182,RU,Russia,SAK,,50.69098480,142.95056890
 1862,"Samara Oblast",182,RU,Russia,SAM,,53.41838390,50.47255280
 1887,"Saratov Oblast",182,RU,Russia,SAR,,51.83692630,46.75393970
-1912,Sevastopol,182,RU,Russia,UA-40,,44.61665000,33.52536710
 1885,"Smolensk Oblast",182,RU,Russia,SMO,,54.98829940,32.66773780
 1868,"Stavropol Krai",182,RU,Russia,STA,,44.66809930,43.52021400
 1894,Sverdlovsk,182,RU,Russia,SVE,,56.84309930,60.64540860
@@ -3641,11 +3644,11 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude
 911,"Northern Province",198,SL,"Sierra Leone",N,,,
 912,"Southern Province",198,SL,"Sierra Leone",S,,,
 913,"Western Area",198,SL,"Sierra Leone",W,,40.25459690,-80.24554440
-4651,"Central Singapore Community Development Council",199,SG,Singapore,01,,1.28951400,103.81438790
-4649,"North East Community Development Council",199,SG,Singapore,02,,45.01181130,-93.24681070
-4653,"North West Community Development Council",199,SG,Singapore,03,,39.10709300,-94.45733600
-4650,"South East Community Development Council",199,SG,Singapore,04,,39.28630700,-76.56912370
-4652,"South West Community Development Council",199,SG,Singapore,05,,39.92569100,-75.23105800
+4651,"Central Singapore",199,SG,Singapore,01,district,1.28840000,103.85350000
+4649,"North East",199,SG,Singapore,02,district,1.38240000,103.89720000
+4653,"North West",199,SG,Singapore,03,district,1.41800000,103.82750000
+4650,"South East",199,SG,Singapore,04,district,1.35710000,103.70040000
+4652,"South West",199,SG,Singapore,05,district,1.35710000,103.94510000
 4352,"Banská Bystrica Region",200,SK,Slovakia,BC,,48.53124990,19.38287400
 4356,"Bratislava Region",200,SK,Slovakia,BL,,48.31183040,17.19732990
 4353,"Košice Region",200,SK,Slovakia,KI,,48.63757370,21.08342250
@@ -3940,8 +3943,10 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude
 1146,Burgos,207,ES,Spain,BU,province,42.33807580,-3.58126920
 1190,Caceres,207,ES,Spain,CC,province,39.47163130,-6.42573840
 5096,Cádiz,207,ES,Spain,CA,province,36.51638510,-6.29997670
+5222,Canarias,207,ES,Spain,CN,"autonomous community",28.29160000,16.62910000
 1170,Cantabria,207,ES,Spain,S,province,43.18283960,-3.98784270
 5110,Castellón,207,ES,Spain,CS,province,39.98114350,0.00884070
+5223,Ceuta,207,ES,Spain,CE,"autonomous city in North Africa",35.88900000,-5.31870000
 5105,"Ciudad Real",207,ES,Spain,CR,province,38.98607580,-3.94449750
 5097,Córdoba,207,ES,Spain,CO,province,36.51638510,-6.29997670
 5106,Cuenca,207,ES,Spain,CU,province,40.06200360,-2.16553440
@@ -3960,6 +3965,7 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude
 5090,Lugo,207,ES,Spain,LU,province,43.01231370,-7.57400960
 1158,Madrid,207,ES,Spain,M,province,40.41675150,-3.70383220
 5101,Málaga,207,ES,Spain,MA,province,36.71820150,-4.51930600
+5224,Melilla,207,ES,Spain,ML,"autonomous city in North Africa",35.29370000,-2.93830000
 1176,Murcia,207,ES,Spain,MU,province,38.13981410,-1.36621600
 1204,Navarra,207,ES,Spain,NA,province,42.69539090,-1.67606910
 5091,Ourense,207,ES,Spain,OR,province,42.33836130,-7.88119510
@@ -4042,7 +4048,7 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude
 970,"Lubombo District",212,SZ,Swaziland,LU,,-26.78517730,31.81070790
 968,"Manzini District",212,SZ,Swaziland,MA,,-26.50819990,31.37131640
 971,"Shiselweni District",212,SZ,Swaziland,SH,,-26.98275770,31.35416310
-1537,Blekinge,213,SE,Sweden,K,,56.27838370,15.01800580
+1537,"Blekinge County",213,SE,Sweden,K,,56.28333333,15.11666666
 1534,"Dalarna County",213,SE,Sweden,W,,61.09170120,14.66636530
 1533,"Gävleborg County",213,SE,Sweden,X,,61.30119930,16.15342140
 1546,"Gotland County",213,SE,Sweden,I,,57.46841210,18.48674470
@@ -4569,6 +4575,7 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude
 4688,"Odeska oblast",230,UA,Ukraine,51,region,46.48458300,30.73260000
 5071,"Poltavska oblast",230,UA,Ukraine,53,region,49.64291960,32.66753390
 4683,"Rivnenska oblast",230,UA,Ukraine,56,region,50.61990000,26.25161700
+1912,Sevastopol,230,UA,Ukraine,40,,44.61665000,33.52536710
 4685,"Sumska oblast",230,UA,Ukraine,59,region,50.90770000,34.79810000
 4674,"Ternopilska oblast",230,UA,Ukraine,61,region,49.55351700,25.59476700
 4669,"Vinnytska oblast",230,UA,Ukraine,05,region,49.23308300,28.46821690
@@ -4905,25 +4912,25 @@ id,name,country_id,country_code,country_name,state_code,type,latitude,longitude
 5218,"Navassa Island",234,UM,"United States Minor Outlying Islands",76,island,18.41006890,-75.01146120
 5219,"Palmyra Atoll",234,UM,"United States Minor Outlying Islands",95,island,5.88850260,-162.07866560
 5220,"Wake Island",234,UM,"United States Minor Outlying Islands",79,island,19.27961900,166.64993480
-3205,"Artigas Department",235,UY,Uruguay,AR,,-30.61751120,-56.95945590
-3213,"Canelones Department",235,UY,Uruguay,CA,,-34.54087170,-55.93076000
-3211,"Cerro Largo Department",235,UY,Uruguay,CL,,-32.44110320,-54.35217530
-3208,"Colonia Department",235,UY,Uruguay,CO,,-34.12946780,-57.66051840
-3209,"Durazno Department",235,UY,Uruguay,DU,,-33.02324540,-56.02846440
-3203,"Flores Department",235,UY,Uruguay,FS,,-33.57337530,-56.89450280
-3217,"Florida Department",235,UY,Uruguay,FD,,28.03594950,-82.45792890
-3215,"Lavalleja Department",235,UY,Uruguay,LA,,-33.92261750,-54.97657940
-3206,"Maldonado Department",235,UY,Uruguay,MA,,-34.55979320,-54.86285520
-3218,"Montevideo Department",235,UY,Uruguay,MO,,-34.81815870,-56.21382560
-3212,"Paysandú Department",235,UY,Uruguay,PA,,-32.06673660,-57.33647890
-3210,"Río Negro Department",235,UY,Uruguay,RN,,-32.76763560,-57.42952070
-3207,"Rivera Department",235,UY,Uruguay,RV,,-31.48174210,-55.24357590
-3216,"Rocha Department",235,UY,Uruguay,RO,,-33.96900810,-54.02148500
-3220,"Salto Department",235,UY,Uruguay,SA,,-31.38802800,-57.96124550
-3204,"San José Department",235,UY,Uruguay,SJ,,37.34929680,-121.90560490
-3219,"Soriano Department",235,UY,Uruguay,SO,,-33.51027920,-57.74981030
-3221,"Tacuarembó Department",235,UY,Uruguay,TA,,-31.72068370,-55.98598870
-3214,"Treinta y Tres Department",235,UY,Uruguay,TT,,-33.06850860,-54.28586270
+3205,Artigas,235,UY,Uruguay,AR,,-30.61751120,-56.95945590
+3213,Canelones,235,UY,Uruguay,CA,,-34.54087170,-55.93076000
+3211,"Cerro Largo",235,UY,Uruguay,CL,,-32.44110320,-54.35217530
+3208,Colonia,235,UY,Uruguay,CO,,-34.12946780,-57.66051840
+3209,Durazno,235,UY,Uruguay,DU,,-33.02324540,-56.02846440
+3203,Flores,235,UY,Uruguay,FS,,-33.57337530,-56.89450280
+3217,Florida,235,UY,Uruguay,FD,,28.03594950,-82.45792890
+3215,Lavalleja,235,UY,Uruguay,LA,,-33.92261750,-54.97657940
+3206,Maldonado,235,UY,Uruguay,MA,,-34.55979320,-54.86285520
+3218,Montevideo,235,UY,Uruguay,MO,,-34.81815870,-56.21382560
+3212,Paysandú,235,UY,Uruguay,PA,,-32.06673660,-57.33647890
+3210,"Río Negro",235,UY,Uruguay,RN,,-32.76763560,-57.42952070
+3207,Rivera,235,UY,Uruguay,RV,,-31.48174210,-55.24357590
+3216,Rocha,235,UY,Uruguay,RO,,-33.96900810,-54.02148500
+3220,Salto,235,UY,Uruguay,SA,,-31.38802800,-57.96124550
+3204,"San José",235,UY,Uruguay,SJ,,37.34929680,-121.90560490
+3219,Soriano,235,UY,Uruguay,SO,,-33.51027920,-57.74981030
+3221,Tacuarembó,235,UY,Uruguay,TA,,-31.72068370,-55.98598870
+3214,"Treinta y Tres",235,UY,Uruguay,TT,,-33.06850860,-54.28586270
 2540,"Andijan Region",236,UZ,Uzbekistan,AN,,40.76859410,72.23637900
 2541,"Bukhara Region",236,UZ,Uzbekistan,BU,,40.25041620,63.20321510
 2538,"Fergana Region",236,UZ,Uzbekistan,FA,,40.45680810,71.28742090
